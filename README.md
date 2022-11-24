@@ -1,6 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 and Vuetify 3 Starter 
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Vuetify 3 documentation](https://next.vuetifyjs.com/en/getting-started/installation/) to learn more.
+
+
+# Following things are included
+
+1. How to use material design icons in Nuxt 3 and Vuetify 3
+2. How to add / create theme switcher in Vuetify 3
 
 ## Setup
 
